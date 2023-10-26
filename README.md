@@ -17,7 +17,7 @@
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:codewithnadeem@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/mohd-nadeem-8128311bb/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/md_nadeem_)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/htmlarts/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudramadhaba" alt="rudramadhaba" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithnadeem" alt="codewithnadeem" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/md_nadeem_" target="blank"><img src="https://img.shields.io/twitter/follow/md_nadeem_?logo=twitter&style=for-the-badge" alt="md_nadeem_" /></a> </p>
 
