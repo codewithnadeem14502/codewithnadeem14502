@@ -4,7 +4,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=codewithnadeem14502&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnadeem14502" />
 
 
-- 🔭 I’m currently working on **Full Stack Development.**
+- 🔭 I’m currently working on **Full Stack Development & React Native**
 
 - 🌱 I’m currently learning **Full stack development and practicing DSA in C++.**
 
