@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfoliov2-six-orcin.vercel.app/](https://portfoliov2-six-orcin.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio✨](https://portfoliov2-six-orcin.vercel.app/)
 
 - 📫 How to reach me **codewithnadeem@gmail.com**
 
