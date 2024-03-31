@@ -1,6 +1,6 @@
 <h1 align="center">Hola! It's Mohd Nadeem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
-<img align="right" src="https://img.etimg.com/thumb/width-600,height-400,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
+<img align="right" src="https://img.etimg.com/thumb/width-550,height-400,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithnadeem14502&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnadeem14502" > </p>
